@@ -1,0 +1,15 @@
+.total{
+    display: flex;
+    gap: 5rem;
+}
+
+table {
+    border: 2px solid red; /* Borde rojo para la tabla, encabezados y celdas */
+}
+
+.boton{
+    background-color: green;
+    color: white;
+    height: 2rem;
+    width: 5rem;
+}
